@@ -9,3 +9,11 @@ html
 {
     font-size: 62.5%;
 }
+.cabesera 
+{
+    font-size: 1.4rem;
+    background-color: blue;
+    text-align: center;
+    padding-right: 20px;
+    
+}
